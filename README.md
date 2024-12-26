@@ -7,4 +7,3 @@
 
 ## 作业3
 ![UMG](/img/homework3.png)
-![UMG](/img/homework3_2.png)
