@@ -3,8 +3,8 @@
 ## 作业1，UE安卓打包
 
 ## 作业2，GameMode
-![GameMode](/Img/homework2.PNG)
+![GameMode](/img/homework2.PNG)
 
 ## 作业3
-![UMG](/Img/homework3.png)
-![UMG](/Img/homework3_2.png)
+![UMG](/img/homework3.png)
+![UMG](/img/homework3_2.png)
